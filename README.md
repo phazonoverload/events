@@ -52,6 +52,7 @@ A list of events I've been involved in organising (probably incomplete)
 
 ### 2015
 
+* Extreme Medicine Hackathon
 * Digiotology Brum Hack Day
 * National Hack the Government London
 * Festival of Code
