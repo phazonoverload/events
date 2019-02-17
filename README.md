@@ -5,6 +5,7 @@ A list of events I've been involved in organising (probably incomplete)
 ### 2019
 
 * You Got This Conference
+* Hack Your Future
 
 ### 2018
 
