@@ -6,6 +6,7 @@ A list of events I've been involved in organising (probably incomplete)
 
 * You Got This Conference
 * Hack Your Future
+* BarCamp London XI
 
 ### 2018
 
